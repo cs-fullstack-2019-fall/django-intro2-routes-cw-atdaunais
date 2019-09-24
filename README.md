@@ -1,5 +1,5 @@
 # Intro to Django routes/endpoints graded classwork 
-
+#### please use .gitignore please comment your code. You managed to set the routes to be correct. Nicely done 4/5 Score: 3/3
 Endpoints are the most important concept when it comes to backend web services. Based on the URL you route the request to the proper piece of code to service the request and return a response.
 
 In the Django implementation, you have a default set of endpoints, but can have specific ones for the various applications that make your overall implementation.
